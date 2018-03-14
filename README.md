@@ -12,7 +12,7 @@ https://docs.aws.amazon.com/ses/latest/APIReference/API_GetSendStatistics.html
 
 ### What this does
 
-It allows you to assume a role and loop through multiple accounts to gather Amazon SES statistics.
+It allows you to assume a role and loop through multiple accounts to gather Amazon SES statistics. It also goes through each of the regions that SES currently supports (N. Virginia, Oregon, Ireland) to gather statistics and saves all the statistics into a file.
 
 ### How to use the tool
 
