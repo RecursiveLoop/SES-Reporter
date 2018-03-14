@@ -28,7 +28,7 @@ It allows you to assume a role and loop through multiple accounts to gather Amaz
 
 6. Build the application using 'dotnet build'
 
-7. Run the application using 'dotnet run <Role Name>' with <Role Name> being the name of the role that you have allowed for cross account access.
+7. Run the application using 'dotnet run (Role Name)' with (Role Name) being the name of the role that you have allowed for cross account access.
 
 8. The application should run and write the output to a text file.
 
