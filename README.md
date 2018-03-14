@@ -14,6 +14,8 @@ https://docs.aws.amazon.com/ses/latest/APIReference/API_GetSendStatistics.html
 
 It allows you to assume a role and loop through multiple accounts to gather Amazon SES statistics. It also goes through each of the regions that SES currently supports (N. Virginia, Oregon, Ireland) to gather statistics and saves all the statistics into a file.
 
+Proudly written in a browser using [AWS Cloud9](https://aws.amazon.com/cloud9/)
+
 ### How to use the tool
 
 1. Install .NET Core 2.0. This works on Windows, MacOS, Linux. https://www.microsoft.com/net/learn/get-started 
