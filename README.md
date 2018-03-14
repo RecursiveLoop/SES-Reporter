@@ -34,7 +34,7 @@ It allows you to assume a role and loop through multiple accounts to gather Amaz
 
 ### Why .NET Core?
 
-I was trying to upskill in C# and I had to use C# for another project, so I decided to use .NET Core. Turned out to be quite fun!
+I wanted to try something different other than Node.js which I usually write. This is the first .NET core app that I wrote that runs on Linux.
 
 ### What's Next?
 
