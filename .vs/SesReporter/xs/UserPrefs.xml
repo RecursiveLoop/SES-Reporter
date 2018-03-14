@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D8FF7F83-3CCC-47E4-8791-3F01E27C72D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.SesReporter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SesReporter/.gitignore">
+    <Files>
+      <File FileName="SesReporter/Program.cs" Line="85" Column="65" />
+      <File FileName="SesReporter/readme.md" Line="45" Column="142" />
+      <File FileName="SesReporter/.gitignore" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
