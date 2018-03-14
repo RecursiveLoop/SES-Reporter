@@ -1,4 +1,4 @@
-#SES Cross Account Reporting Tool
+# SES Cross Account Reporting Tool
 ###### Written by Elgin Lam
 
 ### The Problem
